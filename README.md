@@ -1,5 +1,5 @@
 # Nhom8_ATBMMTHT
-Digital Watermarking  <br>
+<b>Digital Watermarking</b>  <br>
 LOGO <br>
 ![logo](https://github.com/nptruong01/Nhom8_ATBMMTHT/assets/113322089/a6d0ea4f-abeb-4933-bd8c-94491c896966) <br>
 ![mylogo](https://github.com/nptruong01/Nhom8_ATBMMTHT/assets/113322089/5f8c6349-6442-452e-8a93-d8368aee96c2) <br>
