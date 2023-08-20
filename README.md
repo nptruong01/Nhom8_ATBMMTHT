@@ -20,13 +20,13 @@
   <img src="https://github.com/nptruong01/Nhom8_ATBMMTHT/assets/113322089/bf36a36b-f34f-4e7e-9627-82f88fac1bd3" alt="Image for Watermarking">
 </div>
 
-## Watermarked Image
+## Watermarked Image (Using DWT)
 
 <div align="center">
   <img src="https://github.com/nptruong01/Nhom8_ATBMMTHT/assets/113322089/9e8936a6-e362-45f2-91ec-9367f9312e67" alt="Watermarked Image">
 </div>
 
-## Watermarked Image (Overlay)
+## Watermarked Image (Normal)
 
 <div align="center">
   <img src="https://github.com/nptruong01/Nhom8_ATBMMTHT/assets/113322089/46d99fc5-7ace-4264-9652-04821ea87a0b" alt="Watermarked Image (Overlay)">
